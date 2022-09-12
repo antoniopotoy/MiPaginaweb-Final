@@ -1,0 +1,14 @@
+
+------------------------------------------------------------------------------------------------------------------
+
+Mi trabajo esta diseñado con boostrap y es completamente
+responsivo Tiene como Nombre Pasteleria Creativa, hay dos 
+hipervínculos en la barra de navegación,
+el primero la lista de Precios con sus debidas Descripciones,
+tambien la parte de contactos redirige directamente con la aplicación
+de correos electrónicos y WhatsApp, luego el otro hipervínculo
+muestra la dirección y el lugar donde es el establecimiento.
+La dirección del correo electronico y numero telefónico estan a mi
+cuenta como prueba.
+ 
+----------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#primero{
+    background-color: rgba(41, 29, 29, 0.082);
+}
+
+#segundo{
+    background-color: azure;
+}
+
+#info{
+    color: beige;
+    background-color: black;
+}
+
+#textocontacto{
+    color: black;
+}
